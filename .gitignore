@@ -1,0 +1,4 @@
+venv/
+uploads/
+temp
+.DS_Store
